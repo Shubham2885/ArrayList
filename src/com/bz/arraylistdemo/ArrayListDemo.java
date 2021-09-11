@@ -29,6 +29,6 @@ public class ArrayListDemo {
 		
 		System.out.println(arrayList.get(2));
 		
-		
+		System.out.println("Newly added ");
 	}
 }
